@@ -20,6 +20,9 @@ You can enter as many you want
 > ba <br />
 > BA Current Price: 167.50 Fifty-Two weeks low: 89.00  Fifty-Two weeks high:391.00 <br />
 
+## Some Visualization
+I found interactive plot more accurately depict stock price. I mainly used Matplotlib. 
+
 
 
 
