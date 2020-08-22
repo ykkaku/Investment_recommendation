@@ -23,6 +23,18 @@ You can enter as many you want
 ## Some Visualization
 I found interactive plot more accurately depict stock price. I mainly used Matplotlib. 
 
+<img src="images/firstpic.png" width=700>
+
+
+<img src="images/secondpic.png" width=400>
+
+
+## Recommendation Based on your risk vulnerability 
+<img src="images/thirdpic.png" width=700>
+
+
+
+
 
 
 
