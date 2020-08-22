@@ -13,7 +13,9 @@ Test Result:
 > Which stock do you want to look into today?(Please enter a valid Ticker Symbol, enter done to proceed to next section <br />
 > tsla <br />
 > TSLA Current Price: 2,049.98 Fifty-Two weeks low: 211.54  Fifty-Two weeks high:2,095.49 <br />
+
 You can enter as many you want
+
 > Which stock do you want to look into today?(Please enter a valid Ticker Symbol, enter done to proceed to next section <br />
 > ba <br />
 > BA Current Price: 167.50 Fifty-Two weeks low: 89.00  Fifty-Two weeks high:391.00 <br />
