@@ -23,35 +23,35 @@ You can enter as many you want
 ## Some Visualization
 I found interactive plot more accurately depict stock price. I mainly used Matplotlib. 
 
-<img src="images/firstpic.png" width=700>
+<img src="images/firstpic.png" width=500>
 
 
 <img src="images/secondpic.png" width=400>
 
 
 ## Recommendation Based on your risk vulnerability 
-<img src="images/thirdpic.png" width=700>
+<img src="images/thirdpic.png" width=500>
 
 
 <br />
 
 
-<img src="images/fourthpic.png" width=700>
+<img src="images/fourthpic.png" width=400>
 
 
 ## News and Indeed Ratings
 Use API to get access to New York Times data. Get the most recent news articles regarding the interested stocks. 
 1. example using BABA,TWTR,FB,AMZN,TSLA
 
-<img src="images/sixthpic.png" width=700>
+<img src="images/sixthpic.png" width=400>
 
 2. example using PYPL,BABA,FB
 
-<img src="images/seventh.png" width=700>
+<img src="images/seventh.png" width=400>
 
 ## Flowchart walkthrough
 
-<img src="images/fifthpic.jpg" width=700>
+<img src="images/fifthpic.jpg" width=400>
 
 
 
