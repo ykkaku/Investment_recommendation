@@ -32,6 +32,8 @@ I found interactive plot more accurately depict stock price. I mainly used Matpl
 ## Recommendation Based on your risk vulnerability 
 <img src="images/thirdpic.png" width=700>
 
+<img src="images/fourthpic.png" width=700>
+
 
 
 
