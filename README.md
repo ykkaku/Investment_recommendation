@@ -3,7 +3,7 @@
 *Data Visualization, Web Scraping, data analysis, APIs.*
 
 
-For this project, I picked Yahoo Finance as my main data source. The purpose of this project is to extract data (utilize API and web-scraping) from live sources and present the results. As a result, I build an user interactive investment program. 
+For this project, I picked Yahoo Finance as my main data source. The purpose of this project is to extract data (utilize API and web-scraping) from live sources and present the results. As a result, I build an user interactive investment program. Related News and Workplace ratings will be extracted to support the analysis. 
 
 Download the requirements.txt file and have it installed on your PC.
 
@@ -32,9 +32,26 @@ I found interactive plot more accurately depict stock price. I mainly used Matpl
 ## Recommendation Based on your risk vulnerability 
 <img src="images/thirdpic.png" width=700>
 
+
+<br />
+
+
 <img src="images/fourthpic.png" width=700>
 
 
+## News and Indeed Ratings
+Use API to get access to New York Times data. Get the most recent news articles regarding the interested stocks. 
+1. example using BABA,TWTR,FB,AMZN,TSLA
+
+<img src="images/sixthpic.png" width=700>
+
+2. example using PYPL,BABA,FB
+
+<img src="images/seventh.png" width=700>
+
+## Flowchart walkthrough
+
+<img src="images/fifthpic.jpg" width=700>
 
 
 
