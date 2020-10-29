@@ -38,6 +38,14 @@ I found interactive plot more accurately depict stock price. I mainly used Matpl
 
 <img src="images/fourthpic.png" width=400>
 
+Trends on picked gainer,trending stocks
+
+<img src="images/gainer.png" width=300>
+
+
+<img src="images/trending.png" width=300>
+
+MORE EXAMPLE CAN BE FOUND IN THE IMAGE FOLDER
 
 ## News and Indeed Ratings
 Use API to get access to New York Times data. Get the most recent news articles regarding the interested stocks. 
@@ -49,9 +57,18 @@ Use API to get access to New York Times data. Get the most recent news articles 
 
 <img src="images/seventh.png" width=400>
 
+3. Work happiness,indeed rating
+<img src="images/work.png" width=300>
+
+<img src="images/workhappiness.png" width=300>
+
+
+
 ## Flowchart walkthrough
 
 <img src="images/fifthpic.jpg" width=400>
+
+
 
 
 
